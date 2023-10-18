@@ -86,11 +86,6 @@ body{
 }
 
 .card:hover .card-img{
-    /* box-shadow: 0 0 1rem var(--c-secundary); */
-
-}
-
-.card:hover .card-img{
     translate: 0 -2.5rem;
     min-height: 7.5rem;
     scale: 1.15;
